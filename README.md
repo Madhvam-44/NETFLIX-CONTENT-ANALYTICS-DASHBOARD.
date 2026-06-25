@@ -126,4 +126,4 @@ Business Intelligence & Data Visualization
 Trend Analysis and Storytelling with Data
 Dashboard Optimization and User-Centric Design
 
- 8. Screenshot of  the dashboard -![Alt Text](https://github.com/Madhvam-44/NETFLIX-CONTENT-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.netflix.png)
+ 8. Screenshot of  the dashboard - ![Alt Text](https://github.com/Madhvam-44/NETFLIX-CONTENT-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.netflix.png)
